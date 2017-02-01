@@ -9,8 +9,8 @@
 	</parent>
 
 	<properties>
-		<restcomm.jain.slee.version>3.0.0</restcomm.jain.slee.version>
-		<restcomm.resources.sip11.version>3.0.0</restcomm.resources.sip11.version>
+		<restcomm.jain.slee.version>3.0.0-SNAPSHOT</restcomm.jain.slee.version>
+		<restcomm.resources.sip11.version>3.0.0-SNAPSHOT</restcomm.resources.sip11.version>
 	</properties>
 
 	<groupId>org.mobicents.servers.jainslee</groupId>
