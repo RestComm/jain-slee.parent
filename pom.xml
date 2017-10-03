@@ -10,7 +10,7 @@
 
 	<properties>
 		<restcomm.jain.slee.version>2.9.147</restcomm.jain.slee.version>
-		<restcomm.resources.sip11.version>2.9.94</restcomm.resources.sip11.version>
+		<restcomm.resources.sip11.version>2.9.97</restcomm.resources.sip11.version>
 	</properties>
 
 	<groupId>org.mobicents.servers.jainslee</groupId>
