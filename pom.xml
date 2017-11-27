@@ -9,13 +9,13 @@
 	</parent>
 
 	<properties>
-		<restcomm.jain.slee.version>7.0.0-SNAPSHOT</restcomm.jain.slee.version>
-		<restcomm.resources.sip11.version>7.0.0-SNAPSHOT</restcomm.resources.sip11.version>
+		<restcomm.jain.slee.version></restcomm.jain.slee.version>
+		<restcomm.resources.sip11.version></restcomm.resources.sip11.version>
 	</properties>
 
 	<groupId>org.mobicents.servers.jainslee</groupId>
 	<artifactId>restcomm-slee-parent</artifactId>
-	<version>7.0.0-SNAPSHOT</version>
+	<version>7.2.0-76</version>
 
 	<name>Restcomm :: JAIN SLEE Parent :: restcomm-slee-parent</name>
 	<description>Restcomm :: Parent pom for JAIN SLEE 3.x releases</description>
